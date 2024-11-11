@@ -1,0 +1,14 @@
+{
+    "name": "12 Mods of Christmas",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "extensions": "github:The-Code-Zone/pxt-mc-extensions"
+    },
+    "files": [
+
+    ],
+    "testFiles": [],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
